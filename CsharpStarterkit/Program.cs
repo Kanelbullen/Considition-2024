@@ -51,7 +51,7 @@ namespace QLearningGame
                 CustomerLoanRequestProposal bestProposal = null;
                 decimal bestLoanAmount = 0m;
 
-                for (int months = 5; months <= mapData.gameLengthInMonths *4; months++)
+                for (int months = 5; months <= mapData.gameLengthInMonths; months++)
                 {
                     decimal intrestcap = 0;
 
