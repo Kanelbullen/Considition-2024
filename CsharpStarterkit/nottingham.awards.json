@@ -1,0 +1,28 @@
+﻿{
+  "Awards": {
+    "IkeaFoodCoupon": {
+      "cost": 500,
+      "baseHappiness": 15
+    },
+    "IkeaDeliveryCheck": {
+      "cost": 750,
+      "baseHappiness": 25
+    },
+    "IkeaCheck": {
+      "cost": 500,
+      "baseHappiness": 40
+    },
+    "GiftCard": {
+      "cost": 2500,
+      "baseHappiness": 75
+    },
+    "HalfInterestRate": {
+      "cost": 1250.0,
+      "baseHappiness": 250
+    },
+    "NoInterestRate": {
+      "cost": 3500.0,
+      "baseHappiness": 500
+    }
+  }
+}

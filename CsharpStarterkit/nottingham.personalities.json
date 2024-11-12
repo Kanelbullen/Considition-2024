@@ -1,0 +1,34 @@
+﻿{
+  "Personalities": {
+    "conservative": {
+      "happinessMultiplier": 0.09,
+      "acceptedMinInterest": 0.0,
+      "acceptedMaxInterest": 0.02,
+      "livingStandardMultiplier": 1.0
+    },
+    "practical": {
+      "happinessMultiplier": 0.15,
+      "acceptedMinInterest": 0.0,
+      "acceptedMaxInterest": 0.05,
+      "livingStandardMultiplier": 1.15
+    },
+    "innovative": {
+      "happinessMultiplier": 0.2,
+      "acceptedMinInterest": 0.02,
+      "acceptedMaxInterest": 0.11,
+      "livingStandardMultiplier": 1.25
+    },
+    "spontaneous": {
+      "happinessMultiplier": 0.3,
+      "acceptedMinInterest": 0.01,
+      "acceptedMaxInterest": 0.17,
+      "livingStandardMultiplier": 1.35
+    },
+    "riskTaker": {
+      "happinessMultiplier": 0.55,
+      "acceptedMinInterest": 0.05,
+      "acceptedMaxInterest": 0.3,
+      "livingStandardMultiplier": 1.5
+    }
+  }
+}
